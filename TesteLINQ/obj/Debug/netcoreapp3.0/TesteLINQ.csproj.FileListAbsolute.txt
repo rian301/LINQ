@@ -1,0 +1,11 @@
+C:\Users\vilesoft\source\repos\TesteLINQ\TesteLINQ\bin\Debug\netcoreapp3.0\TesteLINQ.exe
+C:\Users\vilesoft\source\repos\TesteLINQ\TesteLINQ\bin\Debug\netcoreapp3.0\TesteLINQ.deps.json
+C:\Users\vilesoft\source\repos\TesteLINQ\TesteLINQ\bin\Debug\netcoreapp3.0\TesteLINQ.runtimeconfig.json
+C:\Users\vilesoft\source\repos\TesteLINQ\TesteLINQ\bin\Debug\netcoreapp3.0\TesteLINQ.runtimeconfig.dev.json
+C:\Users\vilesoft\source\repos\TesteLINQ\TesteLINQ\bin\Debug\netcoreapp3.0\TesteLINQ.dll
+C:\Users\vilesoft\source\repos\TesteLINQ\TesteLINQ\bin\Debug\netcoreapp3.0\TesteLINQ.pdb
+C:\Users\vilesoft\source\repos\TesteLINQ\TesteLINQ\obj\Debug\netcoreapp3.0\TesteLINQ.csprojAssemblyReference.cache
+C:\Users\vilesoft\source\repos\TesteLINQ\TesteLINQ\obj\Debug\netcoreapp3.0\TesteLINQ.AssemblyInfoInputs.cache
+C:\Users\vilesoft\source\repos\TesteLINQ\TesteLINQ\obj\Debug\netcoreapp3.0\TesteLINQ.AssemblyInfo.cs
+C:\Users\vilesoft\source\repos\TesteLINQ\TesteLINQ\obj\Debug\netcoreapp3.0\TesteLINQ.dll
+C:\Users\vilesoft\source\repos\TesteLINQ\TesteLINQ\obj\Debug\netcoreapp3.0\TesteLINQ.pdb
