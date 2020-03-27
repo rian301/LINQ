@@ -6,7 +6,7 @@ namespace TesteLINQ
 {
     class Exercicio_2
     {
-        //labore um método que traga somente os números do primeiro array que não estejam contidos no segundo array e demonstre o resultado no console
+        //Elabore um método que traga somente os números do primeiro array que não estejam contidos no segundo array e demonstre o resultado no console
 
         public void exercicio2()
         {
